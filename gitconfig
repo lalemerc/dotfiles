@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = laure.lemercinier@gmail.com
+	name = laure lemercinier
